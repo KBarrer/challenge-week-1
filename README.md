@@ -1,4 +1,4 @@
-# Week-1 Refractor Challenge
+# Week-1 Refactor Challenge
 
 Landing page for marketing/ management company. Header with navigation tools to move around on the page.
 
