@@ -1,3 +1,5 @@
+/* Affects entire document */
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -16,6 +18,8 @@ a {
 p {
     font-size: 16px;
 }
+
+/* Styles the header */
 
 header {
     padding: 20px;
@@ -50,6 +54,8 @@ header div ul li {
     margin-left: 25px;
 }
 
+/* styles the hero */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +64,8 @@ header div ul li {
     background-size: cover;
     background-position: center;
 }
+
+/* styles the main section */
 
 .float-left {
     float: left;
@@ -93,6 +101,8 @@ main {
     font-size: 36px;
 }
 
+/* styles the benefits section */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -119,6 +129,8 @@ main {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Styles the footer */
 
 footer {
     padding: 30px;
